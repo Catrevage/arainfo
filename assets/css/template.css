@@ -59,7 +59,7 @@ header {
 
 .menu li a:hover, 
 .menu .active a {
-    border-bottom: 5px solid #b28756 ;
+    border-bottom: 5px solid #ff4401;
     color: #ccc;
 }
 
@@ -67,8 +67,8 @@ header {
 
 .banner {
     height: calc(100vh - 100px);
-    background-color: #333 ;
-    background-image: url(../img/bg.jpg);
+    background-color: #0000fe ;
+    background-image: url(../img/arainfo_bg.png);
     background-size: cover;
     background-position: bottom;
     /*Oculta tudo que estiver passando do tamnho */
@@ -110,7 +110,7 @@ header {
 }
 
 .slide_area span {
-    color: #b28756;
+    color: #ff4401;
 }
 
 .slide_area h2 {
@@ -124,7 +124,7 @@ header {
     text-decoration: none;
     margin-top: 20px;
     padding: 10px;
-    background-color: #b28756;
+    background-color: #ff4401;
     color: #fff;
     border-radius: 20px;   
 
@@ -143,7 +143,7 @@ header {
 }
 
 .banner .ball {
-    border: 2px solid #b28756;
+    border: 2px solid #ff4401;
     width: 15px;
     height: 15px;
     border-radius: 100%;
@@ -153,7 +153,7 @@ header {
 }
 
 .banner .active {
-    background-color: #b28756;
+    background-color: #ff4401;
 
 }
 
