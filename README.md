@@ -1,2 +1,2 @@
-# stz
+# AraInfo
 #institutional web site
